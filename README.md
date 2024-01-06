@@ -27,9 +27,9 @@ An XGBClassifier is trained on the dataset and evaluated using the accuracy metr
 
 ## Usage
 To replicate the findings and run the model on your data:
+1. Install the required dependencies.
+2. Update the dataset path as per your setup.
+3. Run the script to train the model and output the accuracy score.
 
-Install the required dependencies.
-Replace /content/parkinsons.data with the path to your dataset.
-Execute the script to train the model and evaluate its performance.
-Results
+## Results
 The output of the script will give you the accuracy of the model on the test set, which indicates how well the model predicts Parkinson's disease.
