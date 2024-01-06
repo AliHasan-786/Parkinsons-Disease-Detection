@@ -28,7 +28,7 @@ An XGBClassifier is trained on the dataset and evaluated using the accuracy metr
 ## Usage
 To replicate the findings and run the model on your data:
 
-## Install the required dependencies.
+Install the required dependencies.
 Replace /content/parkinsons.data with the path to your dataset.
 Execute the script to train the model and evaluate its performance.
 Results
