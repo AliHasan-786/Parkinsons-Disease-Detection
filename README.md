@@ -13,22 +13,22 @@ These can be installed via pip using the command:
 
 !pip install numpy pandas scikit-learn xgboost
 
-Data
+## Data
 The dataset parkinsons.data contains biomedical voice measurements from individuals, labeled with whether they have Parkinson's disease.
 
-Features and Labels
+## Features and Labels
 The dataset includes various features extracted from voice measurements, with the 'status' column being the label indicating the presence of Parkinson's disease.
 
-Preprocessing
+## Preprocessing
 The features are scaled between −1 and 1 using MinMaxScaler to normalize the data for optimal performance of the classifier.
 
-Model Training and Evaluation
+## Model Training and Evaluation
 An XGBClassifier is trained on the dataset and evaluated using the accuracy metric to determine the effectiveness of the model.
 
-Usage
+## Usage
 To replicate the findings and run the model on your data:
 
-Install the required dependencies.
+## Install the required dependencies.
 Replace /content/parkinsons.data with the path to your dataset.
 Execute the script to train the model and evaluate its performance.
 Results
