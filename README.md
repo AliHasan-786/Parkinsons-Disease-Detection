@@ -14,7 +14,7 @@ These can be installed via pip using the command:
 `!pip install numpy pandas scikit-learn xgboost`
 
 ## Data
-The dataset parkinsons.data contains biomedical voice measurements from individuals, labeled with whether they have Parkinson's disease.
+The `parkinsons.data` file includes voice recording measurements from individuals, with each record labeled as having Parkinson's disease or not. Features cover various aspects of voice frequency and amplitude, along with other complex features like harmonic ratios and dynamic complexity.
 
 ## Features and Labels
 The dataset includes various features extracted from voice measurements, with the 'status' column being the label indicating the presence of Parkinson's disease.
