@@ -11,7 +11,7 @@ This repository contains a machine learning project aimed at detecting Parkinson
 
 These can be installed via pip using the command:
 
-!pip install numpy pandas scikit-learn xgboost
+'!pip install numpy pandas scikit-learn xgboost'
 
 ## Data
 The dataset parkinsons.data contains biomedical voice measurements from individuals, labeled with whether they have Parkinson's disease.
