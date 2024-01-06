@@ -10,7 +10,7 @@ This repository contains a machine learning project aimed at detecting Parkinson
 - XGBoost
 
 These can be installed via pip using the command:
-
+```bash
 `!pip install numpy pandas scikit-learn xgboost`
 
 ## Data
